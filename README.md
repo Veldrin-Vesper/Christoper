@@ -17,3 +17,8 @@ I’m passionate about cybersecurity, especially penetration testing, network se
 | Security Risks in Cloud vs. Self-Hosted Apps                |	Cloud Security Lab|
 | Network Enumeration & Asset Discovery    | Network Recon Lab |
 | Cryptographic Flaws Awareness            | Cryptographic Flaws Awareness |             
+
+## Tools
+
+### OSINT & Reconnaissance
+<div> <img src="https://img.shields.io/badge/-SpiderFoot-FF5733?&style=for-the-badge&logo=SpiderFoot&logoColor=white" /> <img src="https://img.shields.io/badge/-Recon_ng-008000?&style=for-the-badge&logo=Recon-ng&logoColor=white" /> </div>
