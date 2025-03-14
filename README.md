@@ -10,9 +10,10 @@ I’m passionate about cybersecurity, especially penetration testing, network se
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| OSINT Investigations (SpiderFoot, Recon-ng)   | OSINT Lab|
+| Active & Passive Reconnaissance               | Reconnaissance Lab|
+| DNS Lookups & Subdomain Enumeration        | DNS Recon Lab|
+| Social Media Scraping & Employee Intelligence      | OSINT Lab|
+| Security Risks in Cloud vs. Self-Hosted Apps                |	Cloud Security Lab|
+| Network Enumeration & Asset Discovery    | Network Recon Lab |
+| Cryptographic Flaws Awareness            | Cryptographic Flaws Awareness |             
