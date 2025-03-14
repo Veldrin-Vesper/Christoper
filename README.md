@@ -5,3 +5,14 @@ During my studies in electrical and electronics engineering at the Petroleum Tra
 
 ## Objective  
 I’m passionate about cybersecurity, especially penetration testing, network security, and threat detection. My goal is to find and fix security weaknesses while learning more about ethical hacking, digital forensics, and security operations. Coming from an electrical and electronics engineering background, I’m always looking to improve my skills and stay ahead in cybersecurity.  
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
