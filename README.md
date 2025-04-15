@@ -22,4 +22,4 @@ I’m passionate about cybersecurity, especially penetration testing, network se
 ## Tools
 
 ### OSINT & Reconnaissance
-<div> <img src="https://img.shields.io/badge/-SpiderFoot-FF5733?&style=for-the-badge&logo=SpiderFoot&logoColor=white" /> <img src="https://img.shields.io/badge/-Recon_ng-008000?&style=for-the-badge&logo=Recon-ng&logoColor=white" /> </div>
+<div> <img src="https://img.shields.io/badge/-SpiderFoot-FF5733?&style=for-the-badge&logo=SpiderFoot&logoColor=white" /> <img src="https://img.shields.io/badge/-Recon_ng-008000?&style=for-the-badge&logo=Recon-ng&logoColor=white" />  <img src="https://img.shields.io/badge/-sslscan-FF00?&style=for-the-badge&logo=SSLSCANt&logoColor=white%22" </div> 
