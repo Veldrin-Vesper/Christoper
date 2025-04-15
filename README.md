@@ -16,7 +16,8 @@ I’m passionate about cybersecurity, especially penetration testing, network se
 | Social Media Scraping & Employee Intelligence      | OSINT Lab|
 | Security Risks in Cloud vs. Self-Hosted Apps                |	Cloud Security Lab|
 | Network Enumeration & Asset Discovery    | Network Recon Lab |
-| Cryptographic Flaws Awareness            | Cryptographic Flaws Awareness |             
+| Cryptographic Flaws Awareness            | Cryptographic Flaws Awareness | 
+| SSL/TLS Certificate Analysis	| SSL Recon Lab |
 
 ## Tools
 
